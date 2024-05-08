@@ -1,1 +1,2 @@
-### ADC data is read
+### ADC
+Led brightness is determined by a photoresistor's ADC reading. 
